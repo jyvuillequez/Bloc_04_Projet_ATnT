@@ -1,6 +1,6 @@
 # Bloc 04 – Projet AT&T
 
-Analyse de données textuelles SMS et améliorer les stratégies de de détecttion des spams.
+Analyse de données textuelles SMS et améliorer les stratégies de de détection des spams.
 
 Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteur Développeur en Science des données (Jedha Bootcamp)**.
 
