@@ -6,7 +6,7 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
 
 ## 1. Contexte & enjeux
 
-- **Problématique métier :** Mettre en place un classifieur de SMS capable de détecter automatiquement les messages spam afin de réduire les arnaques, protéger les utilisateurs et améliorer l’expérience de messagerie.
+- **Problématique métier :** Mettre en place un classificateur de SMS capable de détecter automatiquement les messages spam afin de réduire les arnaques, protéger les utilisateurs et améliorer l’expérience de messagerie.
 - **Décideurs cibles :** Produit, sécurité SI, service relation client
 
 ## 2. Objectifs du projet
@@ -59,7 +59,12 @@ Split stratifié train/test pour conserver le taux de spam.
 - [Recommandation business principale]
 - [Limites du projet + pistes d’amélioration]
 
-## 7. Organisation du projet
+## 7. Installations des librairies Python
+```text
+python -m pip install -r requirements.txt
+```
+
+## 8. Organisation du projet
 
 ```text
 .
