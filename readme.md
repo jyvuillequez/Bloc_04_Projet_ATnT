@@ -6,7 +6,7 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
 
 ## 1. Contexte & enjeux
 
-- **Problématique métier :** Mettre en place un classificateur de SMS capable de détecter automatiquement les messages spam afin de réduire les arnaques, protéger les utilisateurs et améliorer l’expérience de messagerie.
+- **Problématique métier :** Mettre en place un classificateur de SMS capable de détecter automatiquement les messages spam afin de réduire spam sans bloquer les messages légitimes.
 - **Décideurs cibles :** Produit, sécurité SI, service relation client
 
 ## 2. Objectifs du projet
