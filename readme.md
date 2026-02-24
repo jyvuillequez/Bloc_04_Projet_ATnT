@@ -33,9 +33,8 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
 ## 5. Méthodologie
 
 1. **Préparation des données**
-Nettoyage léger (normalisation, tokenisation selon pipeline).
-
-Split stratifié train/test pour conserver le taux de spam.
+- Nettoyage léger (normalisation, tokenisation selon pipeline).
+- Split stratifié train/test pour conserver le taux de spam.
 2. **Analyse exploratoire**
 - Déséquilibre de classes (ham vs spam).
 - Analyse sémantique : termes/lemmes fréquents par classe.
@@ -56,8 +55,6 @@ Split stratifié train/test pour conserver le taux de spam.
 - Le modèle naïf stratified fournit une référence basse (spam très mal détecté), utile pour démontrer le gain réel des modèles.
 - TF-IDF + LogReg est une baseline solide, rapide et interprétable, avec de très bonnes performances sur spam.
 - DistilBERT obtient la meilleure performance globale (meilleur compromis précision/rappel spam + PR-AUC), au prix d’un coût de calcul supérieur.
-- [Recommandation business principale]
-- [Limites du projet + pistes d’amélioration]
 
 ## 7. Installations des librairies Python
 ```text
